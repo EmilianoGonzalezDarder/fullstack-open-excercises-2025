@@ -1,1 +1,1 @@
-The solutions to the exercises from Part 0 to Part 6 are found in this folder, one Part per folder.
+The solutions to the exercises from Part 0 to Part 7 are found in this folder, one Part per folder.
