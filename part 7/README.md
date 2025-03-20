@@ -1,1 +1,1 @@
-Utilización de la librería Redux.
+-Utilización de la librería Redux.
